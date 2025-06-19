@@ -1,0 +1,10 @@
+Creative Commons Zero v1.0 Universal (CC0)
+
+This applies to all non-code assets in this repository, including but not limited to:
+- logo.png
+- info.json
+- project diagrams or visuals
+
+To the extent possible under law, Tamas and Budai Visions Limited has waived all copyright and related or neighboring rights to these assets.
+
+More info: https://creativecommons.org/publicdomain/zero/1.0/
